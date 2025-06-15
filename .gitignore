@@ -1,0 +1,8 @@
+*.o
+
+# test folder
+test/*.12d
+test/*.cvg
+test/*.dat
+test/*.sta
+test/*.frd
